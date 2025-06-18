@@ -3,5 +3,5 @@ Repositorio de instalação do linux desktop via QEMU no Batocera.Linux v40 &amp
 
 <br>
 
-<img src="https://github.com/JeversonDiasSilva/releses/blob/main/apps/img/Heroic.png" width="75" height="75" />
+<img src="https://github.com/JeversonDiasSilva/minios/blob/main/img/linux.png" width="1200" height="1200" />
 <h2>Instalados da Heroic Laucher para as versões v40 e v41</h2>
