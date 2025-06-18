@@ -4,4 +4,4 @@ Repositorio de instalação do linux desktop via QEMU no Batocera.Linux v40 &amp
 <br>
 
 <img src="https://github.com/JeversonDiasSilva/minios/blob/main/img/linux.png" width="500" height="500" />
-<h2>Instalador do "Linux MiniOS by QEMU" para as versões v40 e v41</h2>
+<h2>"Linux MiniOS by QEMU" para as versões v40 e v41</h2>
