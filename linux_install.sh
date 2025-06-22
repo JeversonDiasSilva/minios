@@ -51,7 +51,8 @@ RESET="\033[0m"  # Reseta as cores e efeitos
 
 
 #############
-
+clear 
+echo ""
 
 url=https://github.com/JeversonDiasSilva/minios/releases/download/v1.0/LINUX
 squash=$(basename "$url")
@@ -81,4 +82,6 @@ sleep 2.5
 clear
 sleep 2.5
 echo ""
+linux -h
+sleep 8
 linux
