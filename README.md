@@ -1,9 +1,9 @@
 
 ## 🙏 Agradecimentos especiais...
 
-- [Batocera.Linux](https://batocera.org/)
-- [QEMU](https://www.qemu.org/)
-- [Linux MiniOS](https://minios.dev/)
+# - [Batocera.Linux](https://batocera.org/)
+# - [QEMU](https://www.qemu.org/)
+# - [Linux MiniOS](https://minios.dev/)
 
 
 
