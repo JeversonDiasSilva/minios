@@ -1,5 +1,6 @@
 
 # Agradecimentos especiais...
+<h2><a>https://batocera.org/</a></h2>
 # [Batocera.Linux] https://batocera.org/
 # [QEMU] https://minios.dev/
 # [Linux MiniOS] https://www.qemu.org/
