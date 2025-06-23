@@ -1,4 +1,11 @@
-# https://batocera.org/
+
+# Agradecimentos especiais...
+# [Batocera.Linux] https://batocera.org/
+# [QEMU] https://minios.dev/
+# [Linux MiniOS] https://www.qemu.org/
+
+
+
 # qemu | minios 
 Repositorio de instalação do linux desktop via QEMU no Batocera.Linux v40 &amp; v41.
 
